@@ -1,0 +1,2 @@
+# AMNotifymonitor
+h24
